@@ -1,0 +1,10 @@
+body {
+  background-image: url("https://images.unsplash.com/photo-1587135991058-8816b028691f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80");
+ background-size: cover;
+ background-position:top ;
+  color: rgb(247, 247, 7);
+  margin-top: 5%;
+  font-family: 'Henny Penny', cursive;
+  font-family: 'Roboto Slab', serif;
+  font-family: 'Shizuru', cursive;
+}
